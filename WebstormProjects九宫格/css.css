@@ -1,0 +1,93 @@
+.part1
+{
+    width:256px;
+    height:84px;
+
+}
+.sector1-1{
+    width:80px;
+    height:80px;
+    margin:4px 2px 0 4px;
+    background-color:orange;
+    float:left;
+    border-radius:4px;
+}
+.sector1-2{
+    width:80px;
+    height:80px;
+    margin:4px 2px 0 2px;
+    background-color:orange;
+    float:left;
+    border-radius:4px;
+}
+.sector1-3{
+    width:80px;
+    height:80px;
+    margin:4px 4px 0 2px;
+    background-color:orange;
+    float:left;
+    border-radius:4px;
+}
+.part2
+{
+    width:256px;
+    height:84px;
+    overflow:hidden;
+    border-radius:6px;
+
+}
+.sector2-1{
+    width:80px;
+    height:80px;
+    margin:4px 4px 0 4px;
+    background-color:orange;
+    float:left;
+    border-radius:4px;
+}
+.sector2-2{
+    width:80px;
+    height:80px;
+    margin:4px 0 0 0;
+    background-color:orange;
+    float:left;
+    border-radius:4px;
+}
+.sector2-3{
+    width:80px;
+    height:80px;
+    margin:4px 4px 0 4px;
+    background-color:orange;
+    float:left;
+    border-radius:4px;
+}
+.part3
+{
+    width:256px;
+    height:84px;
+    overflow:hidden;
+
+}
+.sector3-1{
+    width:80px;
+    height:80px;
+    margin:4px 4px 0 4px;
+    background-color:orange;
+    float:left;
+    border-radius:4px;
+}
+.sector3-2{
+    width:80px;
+    height:80px;
+    margin:4px 0 0 0;
+    background-color:orange;
+    float:left;
+    border-radius:4px;
+}
+.sector3-3{
+    width:80px;
+    height:80px;
+    margin:4px 4px 0 4px;
+    background-color:orange;
+    float:left;
+    border-radius:4px;
+}
